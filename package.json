@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "api/tts.js",
   "dependencies": {
-    "ms-edge-tts": "^1.4.2"
+    "ws": "^8.16.0",
+    "uuid": "^9.0.1"
   }
 }
